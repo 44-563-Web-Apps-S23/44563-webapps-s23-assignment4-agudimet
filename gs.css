@@ -1,0 +1,53 @@
+.speech{
+    color: black;
+    font-size: 17px;
+}
+
+.directions{
+    color: black;
+    font-size: 15px;
+    background: seashell;
+     
+}
+.directions:hover{color:red;background-color: beige;}
+
+.JOEL:hover{ 
+
+    color: rgb(45, 142, 193);
+    font-size: 20px;
+    text-shadow: 5px 5px 3px #FF0000;
+    border-style: dotted;
+}
+
+.ANDREW:hover{
+    color: rgb(45, 142, 193);
+    font-size: 20px;
+    text-shadow: 5px 5px 3px #FF0000;
+    border-style: dotted;
+}
+
+.ELLEN:hover{
+    color: rgb(45, 142, 193);
+    font-size: 20px;
+    text-shadow: 5px 5px 3px #FF0000;
+    border-style: dotted;
+}
+
+table{
+    border: 1px solid black;
+    color: black;
+    text-align: center;
+    }
+
+    th, td {
+        text-align: left;
+        padding: 16px;
+        margin: auto;
+      }
+      tr:nth-child(even) {
+        background-color: #f2f2f2;
+      }
+
+      .a{
+        font-size: 25px;
+      }
